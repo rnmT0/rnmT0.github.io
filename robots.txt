@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rnmT0.com/sitemap.xml
